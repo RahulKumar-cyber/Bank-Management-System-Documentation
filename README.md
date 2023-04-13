@@ -1,6 +1,6 @@
-Sure! Here's an example documentation section for your Bank Management System:
 
 Bank Management System Documentation
+
 This is a simple Bank Management System implemented in C++. It allows users to create and manage bank accounts, make deposits and withdrawals, and check their account balances.
 
 Table of Contents
