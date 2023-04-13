@@ -25,7 +25,7 @@ Once you have a C++ compiler installed, you can download or clone the Bank Manag
 
 bash
 Copy code
-git clone https://github.com/your-username/bank-management-system.git
+git clone https://github.com/RahulKumar-cyber/Bank-Management-System-Documentation.git
 Usage
 To use the Bank Management System, navigate to the directory where you downloaded or cloned the repository and run the following command in your terminal:
 
